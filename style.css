@@ -276,7 +276,8 @@ h6 {
 /* Floating Cards */
 .hero-image {
   position: relative;
-  height: 500px;
+  height: 400px;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
